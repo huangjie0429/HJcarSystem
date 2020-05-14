@@ -7,5 +7,5 @@ package com.jike.car.api.service;
  * @create: 2020-05-10 14:54
  **/
 public interface InventoryService {
-    public String  buyCar(int id,String person);
+    String  buyCar(int id);
 }

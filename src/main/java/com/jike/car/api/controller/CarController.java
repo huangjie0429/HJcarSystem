@@ -49,8 +49,8 @@ public class CarController {
     }
 
     @PostMapping("buyCar")
-    public String buyCar(int carId, String person) {
-        return inventoryService.buyCar(carId, person);
+    public String buyCar(int carId) {
+        return inventoryService.buyCar(carId);
 
     }
 

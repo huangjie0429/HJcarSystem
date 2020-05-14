@@ -3,6 +3,8 @@ package com.jike.car.api.pojo;
 import lombok.Data;
 import lombok.experimental.Accessors;
 
+import java.util.Date;
+
 /**
  * @program: car
  * @description:
@@ -15,8 +17,7 @@ public class Inventory {
     private int id;
     private int carId;
     private int count;
-    private int locked;
-    private String lockPerson;
+   private Date lastUpdate;
 
 
 }

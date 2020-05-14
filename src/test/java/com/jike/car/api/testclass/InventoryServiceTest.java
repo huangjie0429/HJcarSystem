@@ -22,7 +22,7 @@ public class InventoryServiceTest {
     InventoryService inventoryService;
     @Test
     public void buyCarTest(){
-        Assertions.assertEquals("购车成功！",inventoryService.buyCar(12,"张世伟"));
+        Assertions.assertEquals("购车成功！",inventoryService.buyCar(12));
     }
 
 }
