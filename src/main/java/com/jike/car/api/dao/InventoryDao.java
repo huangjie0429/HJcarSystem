@@ -12,8 +12,8 @@ import java.util.List;
 /**
  * @program: car
  * @description:
- * @author: spcdle
- * @create: 2020-05-10 20:54
+ * @author: sv4bmy
+ * @create: 2020-05-17 17:09
  **/
 @Mapper
 public interface InventoryDao {
@@ -29,9 +29,12 @@ public interface InventoryDao {
     @Delete("delete from inventory where id = #{id}")
     void deleteById(int id);
 
-    @Update("update inventory set carId=#{carId},count=#{count}, lastUpdate=CURRENT_TIMESTAMP " +
-            "where id = #{id} and lastUpdate=#{lastUpdate}")
-    int updateById(Inventory inventory);
-
+    @Update("update inventory a " +
+            "INNER join(" +
+            "select id,carId,count,LastUpdate "+
+            "from inventory where carId = #{carId} and count<> '0'"+
+            ") b on a.carId = b.carId "+
+            "set a.count = b.count - 1 ,a.LastUpdate = CURRENT_TIMESTAMP")
+    int updateById(int carId);
 
 }

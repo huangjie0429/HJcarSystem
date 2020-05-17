@@ -1,0 +1,51 @@
+2020-05-17 15:50:38.378 INFO [main]com.jike.car.api.testclass.CarDaoTest.logStarting:50 -Starting CarDaoTest on NISDL10090 with PID 45848 (started by sv4bmy in D:\GitWarehouse\L2\program)
+2020-05-17 15:50:38.381 INFO [main]com.jike.car.api.testclass.CarDaoTest.logStartupProfileInfo:646 -No active profile set, falling back to default profiles: default
+2020-05-17 15:50:38.688 INFO [main]com.jike.car.api.testclass.CarDaoTest.logStarting:50 -Starting CarDaoTest on NISDL10090 with PID 66256 (started by sv4bmy in D:\GitWarehouse\L2\program)
+2020-05-17 15:50:38.694 INFO [main]com.jike.car.api.testclass.CarDaoTest.logStartupProfileInfo:646 -No active profile set, falling back to default profiles: default
+2020-05-17 15:51:01.725 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-17 15:51:03.287 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-17 15:51:08.121 INFO [main]com.jike.car.api.testclass.CarDaoTest.logStarted:59 -Started CarDaoTest in 32.471 seconds (JVM running for 42.602)
+2020-05-17 15:51:09.505 INFO [main]com.jike.car.api.testclass.CarDaoTest.logStarted:59 -Started CarDaoTest in 33.828 seconds (JVM running for 41.646)
+2020-05-17 15:51:10.574 INFO [main]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-05-17 15:51:10.733 INFO [main]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-05-17 15:51:17.942 INFO [main]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-05-17 15:51:17.966 INFO [main]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-05-17 15:51:19.018 INFO [main]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-05-17 15:51:19.034 INFO [main]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-05-17 15:51:20.222 INFO [Thread-2]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-17 15:51:20.242 INFO [Thread-4]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-17 16:03:39.557 INFO [main]com.jike.car.api.testclass.CarDaoTest.logStarting:50 -Starting CarDaoTest on NISDL10090 with PID 52840 (started by sv4bmy in D:\GitWarehouse\L2\program)
+2020-05-17 16:03:39.559 INFO [main]com.jike.car.api.testclass.CarDaoTest.logStartupProfileInfo:646 -No active profile set, falling back to default profiles: default
+2020-05-17 16:03:43.314 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-17 16:03:44.657 INFO [main]com.jike.car.api.testclass.CarDaoTest.logStarted:59 -Started CarDaoTest in 6.24 seconds (JVM running for 9.21)
+2020-05-17 16:03:45.326 INFO [main]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-05-17 16:03:47.845 INFO [main]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-05-17 16:03:48.898 INFO [main]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-05-17 16:03:49.945 INFO [Thread-2]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-17 16:04:51.008 INFO [main]com.jike.car.api.testclass.CarDaoTest.logStarting:50 -Starting CarDaoTest on NISDL10090 with PID 61600 (started by sv4bmy in D:\GitWarehouse\L2\program)
+2020-05-17 16:04:51.011 INFO [main]com.jike.car.api.testclass.CarDaoTest.logStartupProfileInfo:646 -No active profile set, falling back to default profiles: default
+2020-05-17 16:04:55.132 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-17 16:04:56.118 INFO [main]com.jike.car.api.testclass.CarDaoTest.logStarted:59 -Started CarDaoTest in 6.697 seconds (JVM running for 9.041)
+2020-05-17 16:04:56.544 INFO [main]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-05-17 16:04:57.745 INFO [main]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-05-17 16:04:58.023 INFO [Thread-2]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-17 16:04:58.026 INFO [Thread-2]com.zaxxer.hikari.HikariDataSource.close:350 -HikariPool-1 - Shutdown initiated...
+2020-05-17 16:04:58.065 INFO [Thread-2]com.zaxxer.hikari.HikariDataSource.close:352 -HikariPool-1 - Shutdown completed.
+2020-05-17 16:08:05.515 INFO [main]com.jike.car.api.testclass.CarDaoTest.logStarting:50 -Starting CarDaoTest on NISDL10090 with PID 66680 (started by sv4bmy in D:\GitWarehouse\L2\program)
+2020-05-17 16:08:05.519 INFO [main]com.jike.car.api.testclass.CarDaoTest.logStartupProfileInfo:646 -No active profile set, falling back to default profiles: default
+2020-05-17 16:08:09.836 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-17 16:08:11.341 INFO [main]com.jike.car.api.testclass.CarDaoTest.logStarted:59 -Started CarDaoTest in 6.743 seconds (JVM running for 8.947)
+2020-05-17 16:08:11.909 INFO [main]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-05-17 16:08:13.571 INFO [main]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-05-17 16:08:13.807 INFO [Thread-2]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-17 16:08:13.827 INFO [Thread-2]com.zaxxer.hikari.HikariDataSource.close:350 -HikariPool-1 - Shutdown initiated...
+2020-05-17 16:08:13.904 INFO [Thread-2]com.zaxxer.hikari.HikariDataSource.close:352 -HikariPool-1 - Shutdown completed.
+2020-05-17 16:09:00.569 INFO [main]com.jike.car.api.testclass.CarDaoTest.logStarting:50 -Starting CarDaoTest on NISDL10090 with PID 60196 (started by sv4bmy in D:\GitWarehouse\L2\program)
+2020-05-17 16:09:00.572 INFO [main]com.jike.car.api.testclass.CarDaoTest.logStartupProfileInfo:646 -No active profile set, falling back to default profiles: default
+2020-05-17 16:09:14.206 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-17 16:09:15.087 INFO [main]com.jike.car.api.testclass.CarDaoTest.logStarted:59 -Started CarDaoTest in 15.494 seconds (JVM running for 17.937)
+2020-05-17 16:09:15.611 INFO [main]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-05-17 16:09:17.442 INFO [main]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-05-17 16:09:17.707 INFO [Thread-2]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-17 16:09:17.709 INFO [Thread-2]com.zaxxer.hikari.HikariDataSource.close:350 -HikariPool-1 - Shutdown initiated...
+2020-05-17 16:09:17.760 INFO [Thread-2]com.zaxxer.hikari.HikariDataSource.close:352 -HikariPool-1 - Shutdown completed.

@@ -8,8 +8,8 @@ import java.util.List;
 /**
  * @program: car
  * @description:
- * @author: spcdle
- * @create: 2020-05-10 14:56
+ * @author: sv4bmy
+ * @create: 2020-05-17 17:10
  **/
 @Mapper
 public interface CarDao {
